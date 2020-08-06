@@ -1,0 +1,49 @@
+.navbar{
+  opacity: 0.8;
+}
+
+#home-section{
+  background: url(../img/sea.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 300px;
+}
+
+#home-section .home-inner{
+  padding-top: 150px;
+}
+
+
+#profile{
+  background-color:#3366CC;
+  border-bottom: #fff 2px solid;
+}
+
+.about-img{
+margin-top: -20px;
+}
+
+.skill-inner{
+  background: url(../img/skill.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0.8;
+}
+
+#section-skill{
+  background-color: #9966CC;
+}
+
+#section-work{
+  background-color: #9966FF;
+}
+
+#section-contact{
+  background-color: #FF66FF;
+}
+
+.footer{
+  border-top: #eee 2px solid;
+  opacity: 0.8;
+}
